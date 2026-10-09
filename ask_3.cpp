@@ -19,6 +19,6 @@ int main() {
 	}
 
     std:: cout << "THE0000000 END";
-    std:: cout "TRy\n";
+    std:: cout << "TRy\n";
     return 0;
 }
