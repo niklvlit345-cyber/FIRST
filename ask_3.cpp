@@ -1,5 +1,6 @@
 #include <iostream>
 #include <cmath>
+
 using std::sin;
 
 
@@ -17,8 +18,7 @@ int main() {
         double y = sin(x); // функция y = sin(x)
         std::cout << x << " | " << y << std::endl; // Выводим значения функции для каждого аргумента (x | y)
 	}
-
     std:: cout << "THE0000000 END";
-    std:: cout << "TRy\n";
+    std:: cout << "TRY\n";
     return 0;
 }
